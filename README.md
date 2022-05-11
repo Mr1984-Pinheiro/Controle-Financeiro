@@ -1,5 +1,5 @@
 <h1 align="center" display="flex">
-    <video alt="" src="https://user-images.githubusercontent.com/73333067/134793460-a05c1168-a1ec-4a1f-992d-01ee7a21b786.mp4" width="px"/>
+    <img alt="" src="https://user-images.githubusercontent.com/73333067/167795159-d64dca52-6bc6-4e30-8d65-45962994bb0c.PNG" width="px"/>
       
 </h1>
 
