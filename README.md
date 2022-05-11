@@ -1,3 +1,8 @@
+<h1 align="center" display="flex">
+    <video alt="" src="https://user-images.githubusercontent.com/73333067/134793460-a05c1168-a1ec-4a1f-992d-01ee7a21b786.mp4" width="px"/>
+      
+</h1>
+
 # Expense Tracker with React
 
 This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
